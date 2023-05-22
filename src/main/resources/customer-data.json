@@ -1,0 +1,11 @@
+{
+  "f_email" : "email",
+  "f_firstName" : "firstName",
+  "f_lastName" : "lastName",
+  "f_password" : "password",
+  "f_companyName": "companyName",
+  "f_password": "password",
+  "f_customerNumber": "customerNumber",
+  "emailVerified": "isEmailVerified",
+  "f_middleName": "middleName"
+}
